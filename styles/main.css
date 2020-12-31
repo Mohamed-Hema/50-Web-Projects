@@ -102,7 +102,9 @@ body {
   color: #fff;
   font-size: 2rem;
 }
-
+.content .fas {
+  font-size: 1.8rem;
+}
 .zoom-text:hover {
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
